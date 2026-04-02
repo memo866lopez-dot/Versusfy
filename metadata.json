@@ -1,0 +1,5 @@
+{
+  "name": "Versusfy",
+  "description": "Minimalist futuristic product comparison engine.",
+  "requestFramePermissions": ["geolocation"]
+}
